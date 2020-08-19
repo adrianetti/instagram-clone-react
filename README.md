@@ -27,5 +27,5 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 [<img align="left" alt="Adrián Ambrosetti | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="aaambrosetti | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[linkedin]: www.linkedin.com/in/adrian-ambrosetti
+[linkedin]: https://www.linkedin.com/in/adrian-ambrosetti
 [instagram]: https://www.instagram.com/aaambrosetti
