@@ -5,12 +5,24 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ## An instagram clone app made for personal learning
 
-- JSX ✅ <img alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/jsx-ir/logo/master/jsx.png"/> 
+- JSX ✅ <img alt="JSX" width="26px" src="https://raw.githubusercontent.com/jsx-ir/logo/master/jsx.png"/> 
 
-- React ✅
-- Material UI🎨 ✅
-- Firebase for the backend🖥📡 ✅
-- User Authentication (email and password // SIGN IN - SIGN UP and LOGOUT) ✅
-- Responsive UI, works on smartphones 📱 ✅
+- React ✅ <img alt="React" width="26px" src="https://programarivm.com/wp-content/uploads/2016/06/React.js_logo.png"/> 
+
+- Material UI🎨 ✅ <img alt="Material UI" width="26px" src="https://cdn.worldvectorlogo.com/logos/element-ui-1.svg"/> 
+
+- Firebase for the backend🖥📡 ✅ <img alt="Firebase" width="26px" src="https://lh3.googleusercontent.com/proxy/80gkR5SAffl5DqyubUmriYlv2yzVNtyb5WqIKaxEGK7kcPgYhsqQcbOTchH_R4Nr3I9ZaGYUJrbu4037Lf_MrIJRhHa2rDmFlvJak18GsBCv5VvgncQ"> 
+
+- User Authentication (email and password // SIGN IN - SIGN UP and LOGOUT) ✅ <img alt="Instagram Logo" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png"/> 
+
 - Ability to upload photos 📸 in posts and comment them 💬 ✅
-"# instagram-clone-react" 
+
+- Responsive UI, works on smartphones 📱 ✅
+
+
+<br/>
+<br/>
+
+---
+
+<i>Made by adrianetti</i>
